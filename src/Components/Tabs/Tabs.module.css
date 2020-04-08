@@ -1,0 +1,15 @@
+
+.tab {
+    padding: 3px 10px;
+    /* font-weight: 800; */
+    cursor: pointer;
+}
+
+.mt_6 {
+    margin-top: 60px;;
+}
+
+.content {
+    margin-top: 30px;
+    display: none;
+}
